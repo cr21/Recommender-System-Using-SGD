@@ -53,3 +53,4 @@ predict the ratings with formula
 $\hat{y}_{ij} = \mu + b_i + c_j + \text{dot_product}(u_i , v_j) $
 
 
+![mse_plot](plot/MSE_loss_ratings.png)
